@@ -6,11 +6,12 @@ The Koans are a set of tasks to complete. Prepared tests checks if they are done
 
 ## Installation
 
-Make sure you have Node.js and Python 2 installed.
+Make sure you have Node.js and Python 2 or 3 installed.
 
-  1. `git clone https://github.com/arkency/reactjs_koans.git`
+  1. `git clone https://github.com/will2357/reactjs_koans.git`
   2. `cd reactjs_koans`
   3. `npm run setup`
+  4. `npm run test`
 
 ## Koans structure
 
@@ -29,7 +30,7 @@ You can run a webserver and see your changes live in your web browser:
 ## Instructions
 
   1. Remember about running the setup script before you start working on Koans!
-  2. Work on the code found in the `exercises` directory and run the tests to see if you did everything right.
+  2. Work on the code found in the `exercises` directory and run the tests (`npm run test`) to see if you did everything right.
   3. You need to do the exercises in the given order.
   4. Try to not peek at the test files! They contain spoilers.
   5. To run the tests, use `npm run test`. To automatically run tests when your code changes, use `npm run watch`.
