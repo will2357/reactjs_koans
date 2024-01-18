@@ -2,7 +2,7 @@ import Answers from '../src/04-Quiz.js';
 
 describe("04 - Quiz", () => {
   it("Question #1", () => {
-    assert.equal(Answers.answer1 === "Component", true, "Check the line that contains `extends` word in each exercise.")
+    assert.equal(Answers.answer1 === "React.Component", true, "Check the line that contains `extends` word in each exercise.")
   });
 
   it("Question #2", () => {

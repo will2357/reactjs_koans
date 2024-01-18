@@ -11,7 +11,7 @@ Make sure you have Node.js and Python 2 or 3 installed.
   1. `git clone https://github.com/will2357/reactjs_koans.git`
   2. `cd reactjs_koans`
   3. `npm run setup`
-  4. `npm run test`
+  4. `npm run test` (fix according to the extensive `Task`s text in comments at top of exercise)
 
 ## Koans structure
 
